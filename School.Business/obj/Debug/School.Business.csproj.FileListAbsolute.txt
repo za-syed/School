@@ -1,0 +1,10 @@
+C:\Source\Windows\School\School.Business\bin\Debug\School.Business.dll
+C:\Source\Windows\School\School.Business\bin\Debug\School.Business.pdb
+C:\Source\Windows\School\School.Business\bin\Debug\School.DataAccess.dll
+C:\Source\Windows\School\School.Business\bin\Debug\School.Entities.dll
+C:\Source\Windows\School\School.Business\bin\Debug\School.DataAccess.pdb
+C:\Source\Windows\School\School.Business\bin\Debug\School.Entities.pdb
+C:\Source\Windows\School\School.Business\obj\Debug\School.Business.csprojResolveAssemblyReference.cache
+C:\Source\Windows\School\School.Business\obj\Debug\School.Business.csproj.CoreCompileInputs.cache
+C:\Source\Windows\School\School.Business\obj\Debug\School.Business.dll
+C:\Source\Windows\School\School.Business\obj\Debug\School.Business.pdb

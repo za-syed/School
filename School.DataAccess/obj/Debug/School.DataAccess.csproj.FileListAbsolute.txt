@@ -1,0 +1,6 @@
+C:\Source\Windows\School\School.DataAccess\bin\Debug\School.DataAccess.dll
+C:\Source\Windows\School\School.DataAccess\bin\Debug\School.DataAccess.pdb
+C:\Source\Windows\School\School.DataAccess\obj\Debug\School.DataAccess.csproj.CoreCompileInputs.cache
+C:\Source\Windows\School\School.DataAccess\obj\Debug\School.DataAccess.dll
+C:\Source\Windows\School\School.DataAccess\obj\Debug\School.DataAccess.pdb
+C:\Source\Windows\School\School.DataAccess\obj\Debug\School.DataAccess.csprojResolveAssemblyReference.cache

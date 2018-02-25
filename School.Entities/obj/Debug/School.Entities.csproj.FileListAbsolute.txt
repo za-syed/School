@@ -1,0 +1,6 @@
+C:\Source\Windows\School\School.Entities\bin\Debug\School.Entities.dll
+C:\Source\Windows\School\School.Entities\bin\Debug\School.Entities.pdb
+C:\Source\Windows\School\School.Entities\obj\Debug\School.Entities.csprojResolveAssemblyReference.cache
+C:\Source\Windows\School\School.Entities\obj\Debug\School.Entities.csproj.CoreCompileInputs.cache
+C:\Source\Windows\School\School.Entities\obj\Debug\School.Entities.dll
+C:\Source\Windows\School\School.Entities\obj\Debug\School.Entities.pdb
