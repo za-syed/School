@@ -15,6 +15,7 @@ namespace School.WinForm
         public Form1()
         {
             InitializeComponent();
+            //There was a comment added.
         }
     }
 }
